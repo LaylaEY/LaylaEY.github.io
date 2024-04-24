@@ -1,15 +1,25 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<div class="grid container"> 
+<div class="section">Layla Yarmosh </div>
+<div class="section">Butterfly puzzle. </div>
+<div class="section">4/24/2024</div>
 
+<div class="flex-container">
 
-<h1> The Lost Pig, Hamilton Found in Local Diner </h1>
-<h6> By Layla Yarmosh </h6>
-<body>
-<p>Hamilton the pig was reported missing August 27 at 5p.m. His owners <strong>James Rodrigez and Juliet Bunnihairo</strong>, put out an alert on social media and the local news informing areas around their animal rehab Center. James said, <q> Please help us find our beloved baby Hamilton. He is a musical lover and a great snorter. <q/> <p/>
-<p>A search team was put together to find Hamilton, spending most of August 28 searching the forest for him. But, they did not find any traces of him there. They searched until there was no sun in the sky. The next day, August 29, they got a call from Chestnut Hill Diner saying they had a very porky customer! Animal control rushed over. <p/>
-<p> Hamilton was happily eating pancakes with the diner owner’s toddler daughter when the authorities arrived. Hamilton was wearing a top hat given to him by the toddler. His adventure had come to an end. <p/>
-<blockquote> Hamilton is now safely at home with his beloved owners James Rodrigez and Juliet Bunnihairo. More laws will be put in place for pig rescue searches in the future. I am now Vegetarian because of this event. <footer>— John Hamm, Mayor of Effort, PA </footer>
-</blockquote>
-</body>
-</html>
-
+<div class= "flex-item"><img puzzle1_A.jpg></div>
+  <div class="flex-item"><img puzzle1_B. jpg> </div>
+  <div class="flex-item"><img puzzle1_C.jpg> </div>
+  <div class="flex-item"><img puzzle1_D.jpg></div>
+  <div class="flex-item"><img puzzle1_E.jpg></div>
+  <div class="flex-item"><img puzzle1_F.jpg></div>
+  <div class="flex-item"><img puzzle1_G.jpg></div>
+  <div class="flex-item"><img puzzle1_H.jpg></div>
+  <div class="flex-item"><img puzzle1_I.jpg></div>
+  <div class="flex-item"><img puzzle1_J.jpg></div>
+  <div class="flex-item"><img puzzle1_K.jpg></div>
+  <div class="flex-item"><img puzzle1_L.jpg></div>
+  <div class="flex-item"><img puzzle1_M.jpg></div>
+  <div class="flex-item"><img puzzle1_N.jpg></div>
+ <div class="flex-item"><img puzzle1_O.jpg></div>
+  <div class="flex-item"><img puzzle1_P.jpg> </div> 
+<div class="flex-item"><img puzzle1_Q.jpg> </div> 
+</div> 
